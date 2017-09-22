@@ -24,3 +24,4 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+# Ionic3_Firebase_Email_Login_Authentication_Profile
